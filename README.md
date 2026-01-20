@@ -24,12 +24,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-RAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320" />
 
 </div>
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=MR-RAHAD&theme=tokyonight&hide_border=true&background=0d1117&fire=8B5CF6&currStreakLabel=8B5CF6) </div>
-
----
-
 <div align="center">
 
 ## 👤 **About Me & Personal Details**
