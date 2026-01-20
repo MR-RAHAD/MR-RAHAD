@@ -196,6 +196,7 @@ Try with Sample URL:
 
 bash
 npx rahad-all-downloader-v2 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```
 </div>
 <div align="center"><!-- Footer Capsule --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=footer&animation=fadeIn&text=Thanks+for+visiting!+✨&fontSize=32&fontAlignY=70" />
 Last Updated: January 2024 • Made with ❤️ from Bangladesh
