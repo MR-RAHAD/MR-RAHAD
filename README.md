@@ -26,8 +26,7 @@
 </div>
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=MR-RAHAD&theme=tokyonight&hide_border=true&background=0d1117&fire=8B5CF6&currStreakLabel=8B5CF6)
-</div>
+<img src="https://streak-stats.demolab.com?user=MR-RAHAD&theme=tokyonight&hide_border=true&background=0d1117&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" /> </div>
 
 ---
 
