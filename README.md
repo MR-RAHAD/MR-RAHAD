@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=220&section=header&animation=fadeIn&text=🚀%20Mohammad%20Rahad&fontSize=48&fontAlignY=40&desc=Passionate%20Developer%20•%20Bangladesh%20•%20Full-Stack%20Specialist&descAlignY=60&descSize=22" />
 
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=MR-RAHAD&color=7C3AED&label=PROFILE+VIEWS&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MR-RAHAD&color=7C3AED&label=PROFILE+VISITORS&style=for-the-badge)
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code;Node.js+•+React+•+MongoDB;Open+Source+Advocate;Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG" />
@@ -80,30 +80,45 @@
 
 <div align="center">
 
-## 🛠️ **Technical Stack**
+## 🛠️ **Animated Technical Stack**
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<!-- Animated Scrolling Skills with Marquee Effect -->
+<div style="overflow: hidden; white-space: nowrap; background: linear-gradient(90deg, #0d1117, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; box-shadow: 0 0 25px rgba(124, 58, 237, 0.3);">
+  <div style="display: inline-block; animation: scroll-left 25s linear infinite;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin: 0 10px;" />
+  </div>
+</div>
 
-### **Frontend Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Backend Technologies**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<style>
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+</style>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🎵 **Currently Listening On Spotify**
+
+<!-- Spotify Currently Playing Status -->
+[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify?background_color=0d1117&border_color=7c3aed)](https://open.spotify.com/user/your_spotify_id)
+
+*Live music status from Spotify*
 
 </div>
 
@@ -113,13 +128,41 @@
 
 ## 📱 **Connect With Me**
 
-<!-- Social Media Badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrahadhossain00@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbyhosainRahad)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rahad.hosain18)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-RAHAD)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+<!-- Animated Glowing Social Media Icons -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+
+<a href="mailto:mdrahadhossain00@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite; box-shadow: 0 0 15px #D14836;" />
+</a>
+
+<a href="https://t.me/rabbyhosainRahad" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 0.5s; box-shadow: 0 0 15px #26A5E4;" />
+</a>
+
+<a href="https://www.facebook.com/md.rahad.hosain18" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 1s; box-shadow: 0 0 15px #1877F2;" />
+</a>
+
+<a href="https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 1.5s; box-shadow: 0 0 15px #E4405F;" />
+</a>
+
+<a href="https://github.com/MR-RAHAD" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 2s; box-shadow: 0 0 15px #181717;" />
+</a>
+
+<a href="https://www.npmjs.com/package/rahad-all-downloader-v2" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 2.5s; box-shadow: 0 0 15px #CB3837;" />
+</a>
+
+</div>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>
 
 </div>
 
@@ -191,11 +234,11 @@
 **Quick Start:**
 ```bash
 npx rahad-all-downloader-v2 [video-url]
-
 Try with Sample URL:
 
 bash
 npx rahad-all-downloader-v2 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 ```
 </div>
 <div align="center"><!-- Footer Capsule --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=footer&animation=fadeIn&text=Thanks+for+visiting!+✨&fontSize=32&fontAlignY=70" />
