@@ -1,56 +1,59 @@
 <div align="center">
 
-<!-- Capsule Render Header with Waving Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&animation=fadeIn&text=🚀%20Mohammad%20Rahad&fontSize=48&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Node.js%20Specialist%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=22" />
+<!-- Animated Capsule Render Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=220&section=header&animation=fadeIn&text=🚀%20Mohammad%20Rahad&fontSize=48&fontAlignY=40&desc=Passionate%20Developer%20•%20Bangladesh%20•%20Full-Stack%20Specialist&descAlignY=60&descSize=22" />
 
-<!-- Visitor Counter with Real-time Stats -->
-![](https://komarev.com/ghpvc/?username=MR-RAHAD&color=2E8BFF&label=PROFILE+VISITORS&style=for-the-badge)
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=MR-RAHAD&color=7C3AED&label=PROFILE+VIEWS&style=for-the-badge)
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=2E8BFF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Node.js+API+Development;Open+Source+Enthusiast;Continuous+Learner+&+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Code;Node.js+•+React+•+MongoDB;Open+Source+Advocate;Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG" />
 
 <br/>
 <br/>
 
 <!-- GitHub Stats Section -->
-## 📊 **GitHub Analytics**
+## 📊 **Development Analytics**
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/MR-RAHAD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-RAHAD&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-RAHAD&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=rahad-all-downloader-v2" />
-</a>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<!-- GitHub Stats Card with TokyoNight Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-RAHAD&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered" />
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-RAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320" />
+
+</div>
 
 <!-- GitHub Streak Stats -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-RAHAD&theme=radical&hide_border=true&background=0d1117&fire=FF6B6B&currStreakLabel=FF6B6B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-RAHAD&theme=tokyonight&hide_border=true&background=0d1117&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
 ---
 
-<div align="left">
+<div align="center">
 
-## 👤 **About Me**
+## 👤 **About Me & Personal Details**
 
-<!-- Personal Information Section -->
 <table>
   <tr>
-    <td width="50%">
-      <ul>
-        <li>🎯 <strong>Age & Gender:</strong> 20 | Male</li>
-        <li>💖 <strong>Relationship Status:</strong> Single</li>
+    <td width="50%" align="left">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>📍 <strong>Current Location:</strong> Shahrasti, Chandpur, Bangladesh</li>
+        <li>🏠 <strong>Permanent Address:</strong> Dhaka, Bangladesh</li>
+        <li>🎯 <strong>Age & Gender:</strong> 20 Years | Male</li>
         <li>🕌 <strong>Religion:</strong> Islam</li>
-        <li>📍 <strong>Permanent Address:</strong> Dhaka, Bangladesh</li>
-        <li>🏠 <strong>Current Location:</strong> Shahrasti, Chandpur</li>
-        <li>💻 <strong>Focus Area:</strong> Full-Stack Development</li>
-        <li>🎓 <strong>Learning:</strong> Advanced Node.js & Microservices</li>
-        <li>🌟 <strong>Passion:</strong> Building Efficient & Scalable Solutions</li>
+        <li>💖 <strong>Relationship Status:</strong> Single</li>
+        <li>🎓 <strong>Focus Area:</strong> Full-Stack Development</li>
+        <li>🚀 <strong>Passion:</strong> Building efficient & scalable web solutions</li>
+        <li>📚 <strong>Currently Learning:</strong> Advanced Microservices & DevOps</li>
       </ul>
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-RAHAD&theme=radical&bg_color=0d1117&hide_border=true&area=true&area_color=2E8BFF&custom_title=My%20Contribution%20Activity" />
+        <!-- GitHub Activity Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-RAHAD&theme=tokyonight&bg_color=0d1117&hide_border=true&area=true&area_color=7C3AED&custom_title=Contribution+Activity+Graph" />
       </div>
     </td>
   </tr>
@@ -62,26 +65,14 @@
 
 <div align="center">
 
-## 🏆 **GitHub Trophies**
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MR-RAHAD&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📦 **NPM Package - Live Stats**
+## 📦 **NPM Package - Live Statistics**
 
 <!-- NPM Package Stats -->
-[![npm version](https://img.shields.io/npm/v/rahad-all-downloader-v2?color=cb3837&style=for-the-badge&logo=npm&logoColor=white&label=Version)](https://www.npmjs.com/package/rahad-all-downloader-v2)
-[![npm downloads](https://img.shields.io/npm/dt/rahad-all-downloader-v2?color=2E8BFF&style=for-the-badge&logo=npm&logoColor=white&label=Total%20Downloads)](https://www.npmjs.com/package/rahad-all-downloader-v2)
-[![npm license](https://img.shields.io/npm/l/rahad-all-downloader-v2?color=32CD32&style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=License)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![npm version](https://img.shields.io/npm/v/rahad-all-downloader-v2?color=CB3837&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![npm downloads](https://img.shields.io/npm/dt/rahad-all-downloader-v2?color=7C3AED&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![npm license](https://img.shields.io/npm/l/rahad-all-downloader-v2?color=10B981&style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
 
-<!-- NPM Weekly Downloads -->
-![npm weekly downloads](https://img.shields.io/npm/dw/rahad-all-downloader-v2?color=FF6B6B&style=for-the-badge&logo=githubactions&logoColor=white&label=Weekly%20Downloads)
+![npm weekly downloads](https://img.shields.io/npm/dw/rahad-all-downloader-v2?color=EF4444&style=for-the-badge&logo=githubactions&logoColor=white&label=Weekly+Downloads)
 
 </div>
 
@@ -89,26 +80,30 @@
 
 <div align="center">
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Technical Stack**
 
-### **Frontend Development**
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+### **Frontend Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Backend Development**
+### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **DevOps & Tools**
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 </div>
 
@@ -118,13 +113,13 @@
 
 ## 📱 **Connect With Me**
 
-<!-- Social Media Links with High-Quality Icons -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mdrahadhossain00@gmail.com)](mailto:mdrahadhossain00@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/rabbyhosainRahad)](https://t.me/rabbyhosainRahad)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/md.rahad.hosain18)](https://www.facebook.com/md.rahad.hosain18)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==)](https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MR-RAHAD)](https://github.com/MR-RAHAD)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://www.npmjs.com/package/rahad-all-downloader-v2)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+<!-- Social Media Badges -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrahadhossain00@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rabbyhosainRahad)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.rahad.hosain18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MR-RAHAD)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
 
 </div>
 
@@ -132,12 +127,12 @@
 
 <div align="center">
 
-## 🐍 **GitHub Contribution Snake**
+## 🐍 **Contribution Snake Animation**
 
-<!-- GitHub Contribution Snake Animation -->
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MR-RAHAD/MR-RAHAD/output/github-contribution-grid-snake.svg)
+<!-- GitHub Contribution Snake -->
+![Contribution Snake](https://raw.githubusercontent.com/MR-RAHAD/MR-RAHAD/output/github-contribution-grid-snake.svg)
 
-*Note: This snake animation visualizes your GitHub contribution activity*
+*Visual representation of my GitHub contribution activity*
 
 </div>
 
@@ -145,16 +140,12 @@
 
 <div align="center">
 
-## 📈 **GitHub Activity**
+## 📈 **GitHub Profile Insights**
 
-<!-- GitHub Activity Graph -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MR-RAHAD&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/MR-RAHAD)
-
-<!-- GitHub Profile Summary Cards -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-RAHAD&theme=radical" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-RAHAD&theme=radical&utcOffset=6" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-RAHAD&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MR-RAHAD&theme=tokyonight&utcOffset=6" /></td>
   </tr>
 </table>
 
@@ -164,15 +155,18 @@
 
 <div align="center">
 
-## 🎯 **Current Focus**
+## 🎯 **Current Focus & Projects**
 
-- 🔭 **Working on:** Enhancing `rahad-all-downloader-v2` npm package
-- 🌱 **Learning:** Advanced Microservices Architecture
-- 👯 **Looking to collaborate on:** Open Source Node.js Projects
-- 🤔 **Exploring:** Docker & Kubernetes for deployment
-- 💬 **Ask me about:** Node.js, API Development, JavaScript
-- 📫 **Reach me:** mdrahadhossain00@gmail.com
-- ⚡ **Fun fact:** I can solve a Rubik's cube in under 2 minutes!
+<div style="text-align: left; max-width: 800px; margin: 0 auto;">
+
+- 🔭 **Currently Working On:** Enhancing `rahad-all-downloader-v2` with new features and better performance
+- 🌱 **Learning & Exploring:** Microservices architecture, Docker containers, and Kubernetes orchestration
+- 👯 **Looking to Collaborate:** Open-source Node.js projects, developer tools, and utility libraries
+- 💬 **Ask Me About:** JavaScript/Node.js development, API design, and open-source contribution
+- 📫 **Best Way to Reach Me:** Telegram or Email for quick responses
+- ⚡ **Fun Fact:** I enjoy solving complex problems and can solve a Rubik's cube in under 2 minutes!
+
+</div>
 
 </div>
 
@@ -180,27 +174,30 @@
 
 <div align="center">
 
-## 🌟 **Featured Projects**
+## 🌟 **Featured Project Spotlight**
 
-<!-- Featured Repository Cards -->
-<a href="https://github.com/MR-RAHAD/rahad-all-downloader-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-RAHAD&repo=rahad-all-downloader-v2&theme=radical&show_owner=true" />
-</a>
+### 📦 **rahad-all-downloader-v2** - Multi-Platform Media Downloader
+[![npm version](https://img.shields.io/npm/v/rahad-all-downloader-v2?color=7C3AED&logo=npm)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![Downloads](https://img.shields.io/npm/dt/rahad-all-downloader-v2?color=10B981)](https://www.npmjs.com/package/rahad-all-downloader-v2)
 
-<!-- Placeholder for future projects -->
-<a href="https://github.com/MR-RAHAD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-RAHAD&repo=&theme=radical&show_owner=true" />
-</a>
+**Description:** A powerful Node.js CLI tool for downloading media content from various social platforms with high efficiency.
 
-<br/>
-<br/>
+**Key Features:**
+- 🚀 **High-Speed Downloads:** Concurrent downloading for faster media retrieval
+- 🌐 **Multi-Platform Support:** YouTube, Facebook, Instagram, and more
+- ⚙️ **Customizable:** Quality selection, format options, and output customization
+- 🔒 **Reliable:** Error handling and resume capability for large files
 
-<!-- Quote Section -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem,%20then%20write%20the%20code.&author=John%20Johnson" />
+**Quick Start:**
+```bash
+npx rahad-all-downloader-v2 [video-url]
 
-<br/>
+Try with Sample URL:
 
-<!-- Footer with Capsule Render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20✨&fontSize=32&fontAlignY=70" />
+bash
+npx rahad-all-downloader-v2 https://www.youtube.com/watch?v=dQw4w9WgXcQ
+</div>
+<div align="center"><!-- Footer Capsule --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=footer&animation=fadeIn&text=Thanks+for+visiting!+✨&fontSize=32&fontAlignY=70" />
+Last Updated: January 2024 • Made with ❤️ from Bangladesh
 
 </div>
