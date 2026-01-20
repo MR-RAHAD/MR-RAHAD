@@ -80,46 +80,19 @@
 
 <div align="center">
 
-## 🛠️ **Animated Technical Stack**
+## 🛠️ **Technical Stack**
 
-<!-- Animated Scrolling Skills with Marquee Effect -->
-<div style="overflow: hidden; white-space: nowrap; background: linear-gradient(90deg, #0d1117, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; box-shadow: 0 0 25px rgba(124, 58, 237, 0.3);">
-  <div style="display: inline-block; animation: scroll-left 25s linear infinite;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" style="margin: 0 10px;" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin: 0 10px;" />
-  </div>
-</div>
-
-<style>
-  
-@keyframes scroll-left {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 **Currently Listening On Spotify**
-
-<!-- Spotify Currently Playing Status -->
-[![Spotify](https://spotify-readme-xi.vercel.app/api/spotify?background_color=0d1117&border_color=7c3aed)](https://open.spotify.com/user/your_spotify_id)
-
-*Live music status from Spotify*
+<!-- Non-animated badges - GitHub compatible -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -129,43 +102,13 @@
 
 ## 📱 **Connect With Me**
 
-<!-- Animated Glowing Social Media Icons -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-
-<a href="mailto:mdrahadhossain00@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite; box-shadow: 0 0 15px #D14836;" />
-</a>
-
-<a href="https://t.me/rabbyhosainRahad" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 0.5s; box-shadow: 0 0 15px #26A5E4;" />
-</a>
-
-<a href="https://www.facebook.com/md.rahad.hosain18" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 1s; box-shadow: 0 0 15px #1877F2;" />
-</a>
-
-<a href="https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 1.5s; box-shadow: 0 0 15px #E4405F;" />
-</a>
-
-<a href="https://github.com/MR-RAHAD" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 2s; box-shadow: 0 0 15px #181717;" />
-</a>
-
-<a href="https://www.npmjs.com/package/rahad-all-downloader-v2" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="border-radius: 50%; padding: 12px 20px; animation: float 3s ease-in-out infinite 2.5s; box-shadow: 0 0 15px #CB3837;" />
-</a>
-
-</div>
-
-<style>
-  
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-  
-</style>
+<!-- Static Social Media Badges - GitHub compatible -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdrahadhossain00@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rabbyhosainRahad)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/md.rahad.hosain18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mdrahad_hosain?igsh=MW5qdW9rNGtwZnQ5cg==)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MR-RAHAD)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/rahad-all-downloader-v2)
 
 </div>
 
@@ -175,7 +118,7 @@
 
 ## 🐍 **Contribution Snake Animation**
 
-<!-- GitHub Contribution Snake -->
+<!-- GitHub Contribution Snake - SVG Animation -->
 ![Contribution Snake](https://raw.githubusercontent.com/MR-RAHAD/MR-RAHAD/output/github-contribution-grid-snake.svg)
 
 *Visual representation of my GitHub contribution activity*
@@ -223,8 +166,8 @@
 ## 🌟 **Featured Project Spotlight**
 
 ### 📦 **rahad-all-downloader-v2** - Multi-Platform Media Downloader
-[![npm version](https://img.shields.io/npm/v/rahad-all-downloader-v2?color=7C3AED&logo=npm)](https://www.npmjs.com/package/rahad-all-downloader-v2)
-[![Downloads](https://img.shields.io/npm/dt/rahad-all-downloader-v2?color=10B981)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![npm version](https://img.shields.io/npm/v/rahad-all-downloader-v2?color=7C3AED&logo=npm&style=flat-square)](https://www.npmjs.com/package/rahad-all-downloader-v2)
+[![Downloads](https://img.shields.io/npm/dt/rahad-all-downloader-v2?color=10B981&style=flat-square)](https://www.npmjs.com/package/rahad-all-downloader-v2)
 
 **Description:** A powerful Node.js CLI tool for downloading media content from various social platforms with high efficiency.
 
@@ -237,14 +180,17 @@
 **Quick Start:**
 ```bash
 npx rahad-all-downloader-v2 [video-url]
-Try with Sample URL:
 
+```
+**Try with Sample URL:**
+
+```
 bash
 npx rahad-all-downloader-v2 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ```
 </div>
-<div align="center"><!-- Footer Capsule --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20&height=120&section=footer&animation=fadeIn&text=Thanks+for+visiting!+✨&fontSize=32&fontAlignY=70" />
-Last Updated: January 2024 • Made with ❤️ from Bangladesh
+<div align="center"><!-- Animated Footer - Using external SVG service --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+✨;Have+a+great+day!+😊" alt="Footer Typing SVG" />
+Last Updated: January 2026 • Made with Rahad ❤️ from Bangladesh
 
 </div>
