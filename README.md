@@ -1,4 +1,4 @@
-iv<!-- Header Section with Typing Effect -->
+<!-- Header Section with Typing Effect -->
 <div align="center">
   
 # 👋 Hi, I'm Mohammad Rahad
@@ -62,9 +62,7 @@ I'm a passionate developer with expertise in JavaScript ecosystem. I enjoy build
 <!-- Snake Game Contribution Grid -->
 ## 🐍 Contribution Snake Game
 
-![Snake animation](https://raw.githubusercontent.com/MR-RAHAD/output/github-contribution-grid-snake.svg)
-
-*Note: Replace `YOUR_USERNAME` with your actual GitHub username in the snake animation URL*
+![Snake animation](https://raw.githubusercontent.com/MR-RAHAD/MR-RAHAD/output/github-contribution-grid-snake.svg)
 
 ---
 
