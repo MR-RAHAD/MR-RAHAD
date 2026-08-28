@@ -30,12 +30,6 @@
         <li>🎧 <strong>Current Vibe:</strong> 🎵 Turning caffeine into code and music into logic</li>
       </ul>
     </td>
-    <td width="50%">
-      <div align="center">
-        <!-- GitHub Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MR-RAHAD&theme=tokyonight&bg_color=0d1117&hide_border=true&area=true&area_color=7C3AED&custom_title=Contribution+Activity+Graph" />
-      </div>
-    </td>
   </tr>
 </table>
 
