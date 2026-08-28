@@ -12,19 +12,6 @@
 <br/>
 <br/>
 
-<!-- GitHub Stats Section -->
-## 📊 **Development Analytics**
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<!-- GitHub Stats Card with TokyoNight Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR-RAHAD&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered" />
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-RAHAD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320" />
-
-</div>
-<div align="center">
 
 ## 👤 **About Me & Personal Details**
 
@@ -34,7 +21,7 @@
       <ul style="list-style-type: none; padding-left: 0;">
         <li>📍 <strong>Current Location:</strong> 🏘️ Shahrasti, Chandpur, Bangladesh</li>
         <li>🏠 <strong>Permanent Address:</strong> 🏙️ Dhaka, Bangladesh</li>
-        <li>🎯 <strong>Age & Gender:</strong> 👨‍💻 20 Years | Male</li>
+        <li>🎯 <strong>Age & Gender:</strong> 👨‍ 20 Years | Male</li>
         <li>🕌 <strong>Religion:</strong> ☪️ Islam</li>
         <li>💖 <strong>Relationship Status:</strong> 💝 Single</li>
         <li>🎓 <strong>Focus Area:</strong> 🌐 Full-Stack Development</li>
